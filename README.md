@@ -29,13 +29,13 @@
 ## :computer: Technologies that I know
 
 <br>
-<p align="center">
 
-  <a>
-    <img align="center" src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,express,mongodb,firebase,git" />
+  <a align="center">
+    <img  src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,react,express,mongodb,firebase,git,github,c,cpp,java,vscode,vite,stackoverflow" />
+
   </a>
 
-</p><br/>
+<br/>
 
 <h2>Connect With Me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
 
@@ -71,6 +71,6 @@
 
 <h2>Uses Repo Languages  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
 
-<img width="100%" align='center'  src='http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Md-Nadim-Mir&theme=default'/>
+<img width="80%" align='center'  src='http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Md-Nadim-Mir&theme=default'/>
 
 <br>
