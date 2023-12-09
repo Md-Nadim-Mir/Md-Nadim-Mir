@@ -1,6 +1,13 @@
 <img src="image/banner.png" class="rounded-banner">
 
+## :bar_chart: : Current Stats
+
+<br />
+<p align="center">
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Md-Nadim-Mir&theme=github-dark)](https://git.io/streak-stats)
+
+</p>
 
 ### Hi there 👋
 
