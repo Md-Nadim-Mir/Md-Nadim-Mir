@@ -1,3 +1,5 @@
+![The San Juan Mountains are beautiful!](/image/banner_img.png)
+
 ### Hi there 👋
 
 <!--
