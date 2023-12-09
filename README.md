@@ -1,6 +1,6 @@
-![The San Juan Mountains are beautiful!](image/banner.png "San Juan Mountains")
+<link rel="stylesheet" href="/style.css">
 
-<img src="/image/banner.png">
+<img src="image/banner.png" class="rounded-banner">
 
 ### Hi there 👋
 

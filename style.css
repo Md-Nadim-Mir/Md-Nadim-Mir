@@ -1,0 +1,8 @@
+.rounded-banner {
+  border-radius: 10px; /* Adjust the radius value to control the roundness */
+}
+
+/* Add border color */
+.rounded-banner {
+  border: 2px solid #3498db; /* Replace #3498db with your desired border color */
+}
