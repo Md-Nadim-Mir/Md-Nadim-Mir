@@ -1,6 +1,6 @@
-<link rel="stylesheet" href="/style.css">
-
 <img src="image/banner.png" class="rounded-banner">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Md-Nadim-Mir&theme=github-dark)](https://git.io/streak-stats)
 
 ### Hi there 👋
 
