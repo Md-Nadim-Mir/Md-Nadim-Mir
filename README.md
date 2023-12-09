@@ -1,4 +1,4 @@
-<img src="image/banner.png">
+<img src="image/animated_banner.gif">
 
 <!-- ### Hi there 👋 -->
 
