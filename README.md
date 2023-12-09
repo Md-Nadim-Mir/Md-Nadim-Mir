@@ -61,7 +61,7 @@
 <h2>Uses Repo Languages  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
 
 <p align='center'>
-<img  src="image/Youtube.svg" />
+<img  src='(http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Md-Nadim-Mir&theme=default)'/>
 </p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Md-Nadim-Mir&theme=default)
